@@ -36,5 +36,5 @@ To answer the main question, yes, the membership gimmick definitely generated mo
 * Branch C generated the most average revenue at 321.05
 * The top 3 **Product lines** that garnered the most sales were ***Fasion accessories, Food and beverages, and Electronic accessories***
 # Credits
-Credit goes to [this Kaggle repository](https://www.kaggle.com/datasets/willianoliveiragibin/market-sales-data/data) for providing the dataset utilized in this analysis.
+Credit goes to [this Kaggle repository](https://www.kaggle.com/datasets/willianoliveiragibin/market-sales-data/data) for providing the dataset utilized in this analysis. <br> <br>
 *Please note that the company name used in this analysis was only a ficticious one. Any resemblance to real-life places and/or names are only coincidences.*
